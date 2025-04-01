@@ -122,11 +122,5 @@ Common error messages and their meanings:
 3. Regular database maintenance
 4. Keep API request rates reasonable
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Your License Here]
-
 ## Disclaimer
 This tool is for analysis purposes only. Always perform your own due diligence before making any trading decisions. The tool does not provide financial advice. 
